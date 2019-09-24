@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidBasics</string>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+    </string-array>
+</resources>
